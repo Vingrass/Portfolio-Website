@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #69745e;
+}
+
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    background-color: #83a363;
+    color: #000000;
+    text-align: center;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+    
+}
+
+.header nav {
+    padding-top: 15px;
+    font-family: 'Gill Sans', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header  nav ul li {
+    display: block;
+
+}
+
+.Profile{
+    display: grid;
+    margin-left: 3%;
+    display: inline-block;
+}
+
+.Profile h1 {
+    
+    font-size: 48px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Profile img{
+    width: 15vw;
+    height: auto;
+    min-width: 200px;
+    min-height: 200px;
+    border: solid 10px #000000;
+} 
+
+.Profile p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding-top: 25px;
+    
+    width: 15vw;
+    height: auto;
+    min-width: 200px;
+    min-height: 200px;
+    
+}
+
+.Applications{
+    display: block;
+    margin-left: 10%;
+    text-align: center;
+}
+
+.Contact-info{
+    padding-top: 10%;
+    display: block;
+    text-align: right;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    margin-right: 2%;
+}
+
+.Contact-info p{
+    padding-top: 4px;
+    font-family: 'Times New Roman', Times, serif;
+
+}

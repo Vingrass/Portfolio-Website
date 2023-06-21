@@ -24,7 +24,7 @@ body {
 }
 
 .header nav {
-    padding-top: 15px;
+    margin-top: 15px;
     font-family: 'Gill Sans', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
@@ -38,6 +38,7 @@ body {
     display: grid;
     margin-left: 3%;
     display: inline-block;
+    
 }
 
 .Profile h1 {
@@ -57,7 +58,7 @@ body {
 .Profile p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
-    padding-top: 25px;
+    margin-top: 25px;
     
     width: 15vw;
     height: auto;
@@ -72,8 +73,33 @@ body {
     text-align: center;
 }
 
+#First-App a{
+    display: inline-block;
+    width: 40vw;
+    text-align: left;
+}
+
+#First-App img{
+    display: flex;
+    display: block;
+    width: 40vw;
+    border: solid 6px #5186e7;
+    box-shadow: 4px 4px #3f3f3f;
+}
+
+#First-App div{
+    position: relative;
+    bottom: 50px;
+    left: 15px;
+    background: #6397f7; 
+    width: 100px;
+    height: 40px;
+    padding-left: 8px;
+    padding-top: 10px;
+}
+
 .Contact-info{
-    padding-top: 10%;
+    margin-top: 10%;
     display: block;
     text-align: right;
     font-family: 'Trebuchet MS', Arial, sans-serif;

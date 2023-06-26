@@ -98,6 +98,31 @@ body {
     padding-top: 10px;
 }
 
+#Second-App a{
+    display: inline-block;
+    width: 25vw;
+    text-align: left;
+}
+
+#Second-App img{
+    display: flex;
+    display: block;
+    width: 30vw;
+    border: solid 6px #6d51e7;
+    box-shadow: 4px 4px #3f3f3f;
+}
+
+#Second-App div{
+    position: relative;
+    bottom: 70px;
+    left: 15px;
+    background: #7d64e9; 
+    width: 130px;
+    height: 50px;
+    padding-left: 8px;
+    padding-top: 10px;
+}
+
 .Contact-info{
     margin-top: 10%;
     display: block;

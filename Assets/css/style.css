@@ -8,7 +8,7 @@
 body {
     background-color: #69745e;
 }
-
+/**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
@@ -33,7 +33,7 @@ body {
     display: block;
 
 }
-
+/**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**/
 .Profile{
     display: grid;
     margin-left: 3%;
@@ -66,13 +66,13 @@ body {
     min-height: 200px;
     
 }
-
+/**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**/
 .Applications{
     display: block;
     margin-left: 10%;
     text-align: center;
 }
-
+/**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**/
 #First-App a{
     display: inline-block;
     width: 40vw;
@@ -97,7 +97,7 @@ body {
     padding-left: 8px;
     padding-top: 10px;
 }
-
+/**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**/
 #Second-App a{
     width: 25vw;
     text-align: left;
@@ -122,7 +122,7 @@ body {
     padding-left: 16px;
     padding-top: 14px;
 }
-
+/**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**/
 #Third-App a{
     display: inline-block;
     width: 20vw;
@@ -147,7 +147,7 @@ body {
     padding-left: 16px;
     padding-top: 14px;
 }
-
+/**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**oo**/
 .Contact-info{
     margin-top: 10%;
     margin-bottom: 10%;
